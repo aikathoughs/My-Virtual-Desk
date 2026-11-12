@@ -12,6 +12,14 @@ Built with **React**, **Three.js**, and **Tailwind CSS v4**, the app runs entire
 
 ---
 
+## 🖼️ Preview
+
+![NIGHTDESK 3D Portfolio Screenshot](public/images/screenshot.jpg)
+
+> *An interactive 3D night desk where you can select DVD cases to explore Great Books entries, check your Student ID, and browse a literary notebook.*
+
+---
+
 ## ✨ Features
 
 - 🖥️ **Interactive 3D Night Desk** — Navigate a fully rendered 3D scene
@@ -144,3 +152,4 @@ Created by **Aika** as part of the **Great Books** course portfolio requirement.
 ## 📄 License
 
 This project is for academic purposes. All rights reserved © 2026 Aika.
+
