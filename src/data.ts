@@ -1,3 +1,5 @@
+import { STUDENT_PHOTO_DATA_URL, UNC_LOGO_DATA_URL } from "./assetsData";
+
 export type DVDConfigItem = {
   id: string;
   short: string;
@@ -158,8 +160,8 @@ export const studentIdentity = {
   registrarTitle: "UNIVERSITY REGISTRAR",
   lanyardOrg: "SCHOOL OF COMPUTER AND INFORMATION SCIENCES",
   lanyardShort: "UNC // SCIS",
-  photoUrl: "/images/student-photo.png",
-  logoUrl: "/images/unc-logo.png",
+  photoUrl: STUDENT_PHOTO_DATA_URL,
+  logoUrl: UNC_LOGO_DATA_URL,
 };
 
 export type NotebookCategoryTab = {
