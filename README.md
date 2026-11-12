@@ -16,8 +16,8 @@ Built with **React**, **Three.js**, and **Tailwind CSS v4**, the app runs entire
 
 ![NIGHTDESK 3D Portfolio Screenshot](public/images/screenshot.jpg)
 
-> *An interactive 3D night desk where you can select DVD cases to explore Great Books entries, check your Student ID, and browse a literary notebook.*
-> Deployed at Vercel : my-virtual-desk-qtx7sqt7k-angelaicamaeharochoc-1398s-projects.vercel.app
+> *An interactive 3D night desk where you can select DVD cases to explore Great Books entries, check your Student ID, and browse a literary notebook.*  
+> 🌐 **Live Demo on Vercel:** [https://my-virtual-desk-qtx7sqt7k-angelaicamaeharochoc-1398s-projects.vercel.app](https://my-virtual-desk-qtx7sqt7k-angelaicamaeharochoc-1398s-projects.vercel.app)
 
 ---
 
