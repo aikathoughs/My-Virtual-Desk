@@ -1,0 +1,10 @@
+{
+  "description": "Explore NIGHTDESK’s creative portfolio through an immersive 3D nighttime workstation, where interactive DVDs reveal design projects and studio details.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
